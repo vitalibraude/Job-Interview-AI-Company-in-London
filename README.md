@@ -1,11 +1,26 @@
-<div align="center">
+# Job Interview AI Company
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+This project aims to help users prepare for job interviews with AI-generated questions and answers based on the specific industry and role.
 
-  <h1>Built with AI Studio</h2>
+## Features
+- AI-generated interview questions based on job descriptions.
+- Personalized feedback and tips for improving responses.
+- A vast library of sample interview questions for various roles.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Installation
+To install the necessary dependencies, run:
+```bash
+pip install -r requirements.txt
+```
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Usage
+Run the application using:
+```bash
+python main.py
+```
 
-</div>
+## Contributing
+Feel free to raise issues and submit pull requests for any improvements!
+
+## License
+MIT License
